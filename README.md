@@ -19,7 +19,7 @@
   ## Useage
   This project is designed to create simple svg logos. When run the user is prompted by 4 questions asking what they would like the shape, color, text within the logo, and text color to be. Once all prompts are answered the svg file is generated within the "example" folder under the name logo.svg. Users may keep their file there, but it will be overwritten once they use the generator again so it is reccomended to save your logo elsewhere or rename the file if you wish to keep it.
 
-  ##Demo
+  ## Demo
   A demonstration video of this program can be found here: https://drive.google.com/file/d/1_qj8UAd3f_I7hko2b3IIXaFitaC-BXCE/view 
 
   
